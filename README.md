@@ -8,6 +8,10 @@ We are adding an introduction
 
 ## Purpose
 
+We were not supposed to PUSH
+
 ## Deployment
+
+OMG this is repetative 
 
 ## How To Continue
